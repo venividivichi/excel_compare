@@ -47,7 +47,7 @@ public class Excel{
 
     private String inputFile2;
 
-    private List<Model> models = new ArrayList<>();
+    private List<Model> models = new ArrayList<>(); //big file
     private List<Model2> models2 = new ArrayList<>();
     private List<Model3> models3 = new ArrayList<>(); //масив виведення
 
