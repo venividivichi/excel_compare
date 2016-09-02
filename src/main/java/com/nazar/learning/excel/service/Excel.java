@@ -49,7 +49,7 @@ public class Excel{
 
     private List<Model> models = new ArrayList<>();
     private List<Model2> models2 = new ArrayList<>();
-    private List<Model3> models3 = new ArrayList<>();
+    private List<Model3> models3 = new ArrayList<>(); //масив виведення
 
     private void read() throws IOException {
         File inputWorkbook = new File(inputFile1);
